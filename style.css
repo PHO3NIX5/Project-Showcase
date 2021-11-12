@@ -1,0 +1,9 @@
+#mcarosel{
+	background-color: dimgrey;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+ img{
+	height: 300px;
+	width: 400px;
+}
